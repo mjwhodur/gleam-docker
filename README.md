@@ -4,7 +4,7 @@ This repository contains a Dockerfile for creating a Docker image with Gleam pro
 
 ## What is Gleam?
 
-Gleam is a friendly language for building type-safe, scalable systems! It compiles to Erlang and has a Ruby-like syntax with a powerful type system.
+Gleam is a friendly language for building type-safe, scalable systems! It compiles to Erlang and has a Go-like syntax with a powerful type system.
 
 ## Docker Image
 
